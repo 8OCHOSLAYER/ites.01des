@@ -29,7 +29,7 @@ if (isset($_SESSION["usuario"])) {
     ?>
               <?php if ($_SESSION["usuario"]["privilegio"] == 1) {?>
               <li class="active"><a href="admins/horarios.php">Administrar Horarios</a></li>
-                    <li><a href="admin.php">Control General</a></li>
+                    <li><a href="../admin.php">Control General</a></li>
                     <li><a href="admin.php">Reportes</a></li>
                     <li><a href="admin.php">Subscripciones</a></li>
                     <li><a href="admin.php">return</a></li>
