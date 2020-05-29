@@ -2,8 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b78cfe5-70f9-4665-bf6a-a5ed5eb938df" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/views/assets/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/assets/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/assets/css/checkbox3.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/assets/css/custom-styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/assets/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/assets/css/select2.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/assets/font-awesome/fonts/fontawesome-webfontba72.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/assets/font-awesome/fonts/fontawesome-webfontba72.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/assets/font-awesome/fonts/fontawesome-webfontba72.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/assets/font-awesome/fonts/fontawesome-webfontba72.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/assets/font-awesome/fonts/fontawesome-webfontd41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/assets/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/assets/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/assets/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/assets/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/assets/fonts/glyphicons-halflings-regulard41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/assets/js/Lightweight-Chart/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/assets/js/Lightweight-Chart/chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/assets/js/Lightweight-Chart/cssCharts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/assets/js/Lightweight-Chart/index - Copy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/assets/js/Lightweight-Chart/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/assets/js/Lightweight-Chart/jquery.chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/assets/js/Lightweight-Chart/jquery.chart.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/assets/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/assets/js/chart-data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/assets/js/chart.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/assets/js/chartjs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/assets/js/custom-scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/assets/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/assets/js/dataTables/dataTables.bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/assets/js/dataTables/dataTables.bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/assets/js/dataTables/jquery.dataTables.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/assets/js/easypiechart-data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/assets/js/easypiechart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/assets/js/jquery-1.10.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/assets/js/jquery.metisMenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/assets/js/morris/morris-0.4.3.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/assets/js/morris/morris.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/assets/js/morris/raphael-2.1.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/assets/js/select2.full.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/partials/footer-ad.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/partials/head-ad.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/partials/menu-ad.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/admins/horarios.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/admins/Hclass.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/admin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/partials/head.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/partials/head.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/partials/menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/partials/menu.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +94,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/views/assets" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -59,11 +105,14 @@
     <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\ites.01des\views\assets" />
+      <recent name="C:\xampp\htdocs\ites.01des\views\assets\js" />
+      <recent name="C:\xampp\htdocs\ites.01des\views\assets\css" />
+      <recent name="C:\Users\REPUBLIC\Desktop\ITES\vista\assets\IMG" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\REPUBLIC\Desktop\ITES" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\REPUBLIC\Desktop\ITES\vista\assets\IMG" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -79,7 +128,9 @@
       <workItem from="1589842423150" duration="799000" />
       <workItem from="1589843311596" duration="3959000" />
       <workItem from="1589933316040" duration="1092000" />
-      <workItem from="1589934678740" duration="1379000" />
+      <workItem from="1589934678740" duration="1380000" />
+      <workItem from="1590427652787" duration="1676000" />
+      <workItem from="1590787660762" duration="4664000" />
     </task>
     <servers />
   </component>
@@ -91,10 +142,16 @@
       <screen x="-259" y="-1080" width="1920" height="1040" />
     </state>
     <state x="457" y="-770" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/-259.-1080.1920.1040@-259.-1080.1920.1040" timestamp="1589933648575" />
-    <state x="481" y="-805" key="FileChooserDialogImpl" timestamp="1589842646274">
-      <screen x="-259" y="-1080" width="1920" height="1040" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590792510025">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728/-206.-1080.1920.1040/1366.0.768.984@0.0.1366.728" timestamp="1590792510025" />
+    <state x="526" y="193" key="FileChooserDialogImpl" timestamp="1590788736429">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="526" y="193" key="FileChooserDialogImpl/0.0.1366.728/-206.-1080.1920.1040/1366.0.768.984@0.0.1366.728" timestamp="1590788736429" />
     <state x="481" y="-805" key="FileChooserDialogImpl/0.0.1366.728/-259.-1080.1920.1040@-259.-1080.1920.1040" timestamp="1589842646274" />
+    <state x="526" y="193" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590428931861" />
     <state x="535" y="-641" key="NewPhpFileDialog" timestamp="1589933732903">
       <screen x="-259" y="-1080" width="1920" height="1040" />
     </state>
@@ -103,6 +160,11 @@
       <screen x="-259" y="-1080" width="1920" height="1040" />
     </state>
     <state x="202" y="-918" key="SettingsEditor/0.0.1366.728/-259.-1080.1920.1040@-259.-1080.1920.1040" timestamp="1589934770726" />
+    <state x="359" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1590787860337">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="359" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-206.-1080.1920.1040/1366.0.768.984@0.0.1366.728" timestamp="1590787860337" />
+    <state x="359" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1590427653777" />
     <state x="293" y="-901" key="scopes" timestamp="1589933932077">
       <screen x="-259" y="-1080" width="1920" height="1040" />
     </state>
